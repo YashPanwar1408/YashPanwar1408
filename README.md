@@ -34,19 +34,20 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/Yashpanwar-hub">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashPanwar1408&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/YashPanwar1408">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=YashPanwar1408&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/Yashpanwar-hub">
+  <a href="https://github.com/YashPanwar1408">
     <img src="https://github-readme-stats.vercel.app/api?username=YashPanwar1408&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yashpanwar-hub">
+  <a href="https://github.com/YashPanwar1408">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashPanwar1408&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
