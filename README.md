@@ -35,9 +35,14 @@
 
 <p align="center">
   <a href="https://github.com/YashPanwar1408">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=YashPanwar1408&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com?user=YashPanwar1408&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+      onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com?user=YashPanwar1408&theme=tokyonight&hide_border=true';"
+    />
   </a>
 </p>
+
 
 
 <p align="center">
@@ -93,5 +98,13 @@ for _ in range(10):
 ---
 
 <h2 align="center">⭐ Fun Fact</h2> <p align="center">I love to explore and build new projects, whether it's a <b>YouTube Clone, an Airbnb Clone, or AI-powered applications</b>! Let's connect and collaborate! 🚀</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashPanwar1408/YashPanwar1408/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashPanwar1408/YashPanwar1408/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YashPanwar1408/YashPanwar1408/output/github-snake.svg" />
+</picture>
 
 ---
