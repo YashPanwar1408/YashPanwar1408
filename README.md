@@ -1,14 +1,43 @@
-<h1 align="center">🚀 Welcome to My GitHub! I'm <a href="https://github.com/YashPanwar">Yash Panwar</a> 🚀</h1>
+# <h1 align="center">⚡ Yash Panwar ⚡</h1>
+
+<h3 align="center">
+Full Stack Developer • AI/ML Engineer • Backend & Systems Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=34D399&center=true&width=435&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;Tech+Explorer+%26+Innovator"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Production-Grade+Full+Stack+Applications;AI+Systems+%7C+Backend+Architecture+%7C+Cloud+Engineering;Next.js+%7C+Node.js+%7C+Python+%7C+Docker+%7C+AI%2FML;Turning+Complex+Ideas+Into+Scalable+Products" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
 </p>
 
 ---
+
+# 🚀 About Me
+
+```yaml
+Name: Yash Panwar
+Role: Full Stack Developer & AI/ML Engineer
+Education: B.Tech @ GTBIT
+Focus:
+  - Full Stack Engineering
+  - AI/ML Systems
+  - Backend Architecture
+  - Cloud & Infrastructure
+  - System Design
+  - Scalable Applications
+
+Currently Building:
+  - AI Interview Platform
+  - AI Music Generation Systems
+  - Production-grade Full Stack SaaS Applications
+
+Goals:
+  - Become a world-class software engineer
+  - Build scalable AI products
+  - Crack top product-based companies
+```
 
 <h2 align="center">🌟 About Me</h2>
 
@@ -22,11 +51,11 @@
 <li>🎓 Completed an <b>internship</b> to enhance my skills and industry exposure</li>
 </ul>
 
----
+# 🧠 Tech Stack
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,ts,react,nextjs,nodejs,express,mongodb,tailwind,prisma,python,docker,git,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,ts,postgres,react,nextjs,nodejs,express,mongodb,tailwind,prisma,python,docker,redis,git,github,aws,blender,cpp,c,fastapi,figma,firebase,ai,matlab"/>
 </p>
 
 ---
