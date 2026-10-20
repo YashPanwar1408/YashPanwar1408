@@ -24,6 +24,12 @@
   <a href="https://www.linkedin.com/in/yashpanwar1408" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
+  <a href="https://leetcode.com/u/yashpanwar1408/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=ffa116" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/YashPanwar1408" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-0b1220?style=for-the-badge&logo=codeforces&logoColor=1f8acb" alt="Codeforces" />
+  </a>
   <a href="mailto:panwarhp2351@gmail.com">
     <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email" />
   </a>
@@ -254,6 +260,16 @@
 
 <div align="center">
 
+<p>
+  <a href="https://leetcode.com/u/yashpanwar1408/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-yashpanwar1408-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/YashPanwar1408" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-YashPanwar1408-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td width="50%" align="center">
@@ -311,6 +327,14 @@
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1220" alt="LinkedIn" />
   </a>
   &nbsp;
+  <a href="https://leetcode.com/u/yashpanwar1408/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0B1220" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/YashPanwar1408" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=0B1220" alt="Codeforces" />
+  </a>
+  &nbsp;
   <a href="mailto:panwarhp2351@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-818CF8?style=for-the-badge&logo=gmail&logoColor=0B1220" alt="Email" />
   </a>
@@ -326,7 +350,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:083344,100:0e7490&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YashPanwar1408&label=Profile%20Views&color=0284c7&style=flat-square" alt="Visitor Count" />
+  <img src="https://api.visitorbadge.io/api/combined?path=YashPanwar1408.YashPanwar1408&label=PROFILE%20VIEWS&labelColor=0b1220&countColor=0284c7&style=flat-square" alt="Profile Views" />
 </p>
 
 <sub>Crafted with engineering precision · Powered by curiosity · <em>Stay relentless</em></sub>
